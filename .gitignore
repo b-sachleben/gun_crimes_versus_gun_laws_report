@@ -1,0 +1,9 @@
+.DS_Store
+# /csv_files/Gun_Violence_Data.csv
+/datasets/*
+/*.db
+/gun_crime_and_state_laws_2.db
+/recreate_database.sql
+/SQL_queries/*
+/Unused_Example_Code.ipynb
+/.ipynb_checkpoints/Unused_Example_Code-checkpoint.ipynb
