@@ -5,3 +5,5 @@
 /SQL_queries/*
 /.ipynb_checkpoints/Unused_Example_Code-checkpoint.ipynb
 /old_or_unused_code/*
+/.gitignore
+/.gitattributes
