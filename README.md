@@ -16,6 +16,8 @@ To accomplish this, I gathered the needed data from each database (incidents fro
 
 The dataset also included 2013 and 2018, but the information for those years was incomplete, so it was edited out in order to abbreviate what was rather bulky dataset of ~200,000 entries.
 
+Also, as a note, because of the size of the previously mentioned dataset, the script for creating tables for the incidents for each respective state can take some time. So, if it seems like it is frozen, it is not. It just needs some time to work.
+
 ---
 
 #### Files used:
