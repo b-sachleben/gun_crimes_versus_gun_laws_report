@@ -34,3 +34,12 @@ downloaded from *[here](https://www.rand.org/pubs/tools/TL283.html)* (The base f
 
 * Jupyter Notebooks (as part of Anaconda Navigator or otherwise)
 * DB Browser for SQLite
+
+***Python libraries used:***  
+
+* Pandas
+* Matplotlib
+* Numpy
+* Seaborn
+
+##### Open gun_crimes_versus_gun_laws_report.ipynb to get started.  
